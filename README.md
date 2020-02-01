@@ -1,6 +1,6 @@
 # aws-devops
-Cloud Platform: AWS
-	Networking:
+## Cloud Platform: AWS
+### 	Networking:
 		- VPC
 		- Subnets
 		- NACL
@@ -10,8 +10,8 @@ Cloud Platform: AWS
 		- Cloudfront
 		- Route53
 
-	Computing:
-		- EC2
+### Computing:
+#### EC2
 		- Autoscaling
 		- Load Balancing
 		- Snapshots
@@ -70,3 +70,7 @@ SCM : Git
 
 Infrastruce COnfiguration & Management: Ansible(i.e Infrastructure as a Code) <==> Chef
 
+Servers:
+	Jenkins
+	Ansible
+	Grafana
